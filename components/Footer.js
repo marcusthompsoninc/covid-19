@@ -15,7 +15,7 @@ const Credit = styled.div`
 
 export default function Footer() {
   return (
-    <React.Fragment>
+    <>
       <Credits>
         <Credit>
           <h4>Credits</h4>
@@ -34,6 +34,6 @@ export default function Footer() {
           </a>
         </Credit>
       </Credits>
-    </React.Fragment>
+    </>
   );
 }

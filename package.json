@@ -1,0 +1,23 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "Covid 19 Stat Tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build && next export",
+    "export": "next export"
+  },
+  "keywords": [
+    "covid19",
+    "coronavirus"
+  ],
+  "author": "Marcus Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
+  }
+}

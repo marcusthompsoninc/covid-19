@@ -1,8 +1,9 @@
-import { createGlobalStyle } from 'styled-components';
-import StatsImage from '../components/StatsImage';
-import Stats from '../components/Stats';
-import CountrySelector from '../components/CountrySelector';
-import Footer from '../components/Footer';
+import React from "react";
+import { createGlobalStyle } from "styled-components";
+import StatsImage from "../components/StatsImage";
+import Stats from "../components/Stats";
+import CountrySelector from "../components/CountrySelector";
+import Footer from "../components/Footer";
 
 const GlobalStyle = createGlobalStyle`
 

@@ -28,7 +28,7 @@ export default function Footer() {
           <a href="https://github.com/wesbos/rona/" title="Wes Bos Rona Github project">
             Wes Bos
           </a>{" "}
-          for the tutorial
+          for the tutorial and <a href="https://owanhunte.com" title="Owan Hunte">Owan Hunte</a> for showing me how I could do this better. Respect!
         </Credit>
         <Credit>
           Stats provided by:{" "}

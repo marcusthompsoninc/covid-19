@@ -21,6 +21,9 @@ export default function Footer() {
           <h4>Credits</h4>
         </Credit>
         <Credit>
+          Made by <a href="https://marcusthompson.ca" title="Marcus Thompson - web developer">Marcus</a>
+        </Credit>
+        <Credit>
           Thank you to{" "}
           <a href="https://github.com/wesbos/rona/" title="Wes Bos Rona Github project">
             Wes Bos

@@ -6,4 +6,4 @@ A covid-19 tracker based tutorial by Wes Bos
 2. npm run build
 
 ## demo
-Deployed here: https://covid-19-16v71doii.now.sh/
+Deployed here: https://covid-19.marcusthompsoninc.now.sh/
